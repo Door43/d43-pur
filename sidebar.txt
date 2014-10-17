@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pur:home|Door43 (pur)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pur|d43-pur repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pur/archive/master.zip|d43-pur.zip]]
+
+**Recent Changes**
+{{changes>ns = pur}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pur|Ethnologue data]]
+
